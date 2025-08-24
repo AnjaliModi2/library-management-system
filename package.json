@@ -1,0 +1,26 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "modified by me",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnjaliModi2/library-management-system.git"
+  },
+  "author": "Anjali Modi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnjaliModi2/library-management-system/issues"
+  },
+  "homepage": "https://github.com/AnjaliModi2/library-management-system#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
